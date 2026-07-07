@@ -1,0 +1,14 @@
+Cifrado Cesar.
+Sustitucion por desplazamiento y genera un codigo a partir de una estrategia de conteo.
+
+ABCDEFGHIJKLMNOPQRSTUVWYZ
+
+descifrar  H O L A.
+
+K: H MAS 3 POSICIONES.
+R: O MAS 3 POSICIONES.
+O: L MAS TRES POSICIONES.
+D: A MAS TRES POSICIONES.
+
+
+
